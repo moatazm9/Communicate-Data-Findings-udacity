@@ -1,6 +1,6 @@
 # Communicate-Data-Findings-udacity
 FORD GO BIKE SYSTEM DATA
-BY MOATAZ AL-SHARQAWY
+
 Dataset
 This project is divided into two major parts. In the first part, I will use an exploratory data analysis on a dataset Ford GoBike System Data. I will use Python and data visualization libraries to explore the dataset’s variables and understand the data’s structure, oddities, patterns, and relationships. The analysis in this part should be structured, going from simple univariate relationships up through multivariate relationships.
 In the second part, I will take my main findings from my exploration and convey them to others through an explanatory analysis. To this end, I will create a slide deck that leverages polished, explanatory visualizations to communicate my results.
